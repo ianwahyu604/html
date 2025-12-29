@@ -21,6 +21,7 @@ btnMau.addEventListener("click", function () {
 btnTidak.addEventListener("click", function () {
   btnMau.style.display = "none";
   btnTidak.style.display = "none";
-  hasil.innerText = "Tidak apa-apa, terima kasih sudah jujur.";
+  hasil.innerText = "terima kasih sudah jujur. cantik😄";
   hasil.style.opacity = 1;
 });
+
