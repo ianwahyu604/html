@@ -144,7 +144,7 @@ lanjutkan.addEventListener("click", function () {
       "tapi ya gitu aku selalu overthinking,\n" +
       "sekarang aku beranikan diri ungkapin,\n " +
       "masalah mau ngak itu hakmu.\n" +
-      "💕terimakasih :)💕";
+      "💕Frizky Pransiska :)💕";
   }, 8000);
 });
 
@@ -191,3 +191,4 @@ function showBubble(text) {
     bubble.classList.remove("show");
   }, 1500);
 }
+
